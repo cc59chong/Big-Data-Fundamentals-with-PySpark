@@ -9,7 +9,10 @@ Fundamentals of BigData and introduction to Spark as distributed computing frame
 * Spark modes: Local and clister mode
 ### 2. Programming in PySpark RDD’s
 Introduction to RDDs, different features of RDDs, methods of creating RDDs and RDD operations (Transformation and Actions)
-* Transsformations: ```map()```, `flatMap()`, filter(), union()
+* Transsformations: ```map()```, `flatMap()`, `filter()`,` union()`
+* Actions: `collect()`, `take()`, `first()`, `count()`
+* Paired RDD Transformations: `reduceByKey()`, `groupByKey()`, `sortByKey()`, `join()`, `countByKey()`, `collectAsMap()`
+* Advanced RDD Actions: `reduce()`, `saveAsTextFile()`
 ### 3. PySpark SQL & DataFrames
 Introduction to Spark SQL, DataFrame abstraction, creating DataFrames, DataFrame operations and visualizing Big Data through DataFrames
 ### 4. Machine Learning with PySpark MLlib [Notebook](https://github.com/cc59chong/Big-Data-Fundamentals-with-PySpark/blob/main/Machine%20Learning%20with%20PySpark%20MLlib.ipynb)
