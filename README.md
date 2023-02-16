@@ -7,3 +7,9 @@ Fundamentals of BigData and introduction to Spark as distributed computing frame
 * PySpark: Apache Spark's Python API to execute Spark jobs
 * PySpark shell: For developing the interactive applications in python
 * Spark modes: Local and clister mode
+### 2. Programming in PySpark RDD’s
+Introduction to RDDs, different features of RDDs, methods of creating RDDs and RDD operations (Transformation and Actions)
+### 3. PySpark SQL & DataFrames
+Introduction to Spark SQL, DataFrame abstraction, creating DataFrames, DataFrame operations and visualizing Big Data through DataFrames
+### 4. Machine Learning with PySpark MLlib
+Introduction to Spark MLlib, the three C's of Machine Learning (Collaborative filtering, Classification and Clustering) 
