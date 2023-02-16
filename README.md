@@ -11,5 +11,5 @@ Fundamentals of BigData and introduction to Spark as distributed computing frame
 Introduction to RDDs, different features of RDDs, methods of creating RDDs and RDD operations (Transformation and Actions)
 ### 3. PySpark SQL & DataFrames
 Introduction to Spark SQL, DataFrame abstraction, creating DataFrames, DataFrame operations and visualizing Big Data through DataFrames
-### 4. Machine Learning with PySpark MLlib [notebook](https://github.com/cc59chong/Big-Data-Fundamentals-with-PySpark/blob/main/Machine%20Learning%20with%20PySpark%20MLlib.ipynb)
+### 4. Machine Learning with PySpark MLlib [Notebook](https://github.com/cc59chong/Big-Data-Fundamentals-with-PySpark/blob/main/Machine%20Learning%20with%20PySpark%20MLlib.ipynb)
 Introduction to Spark MLlib, the three C's of Machine Learning (Collaborative filtering, Classification and Clustering) 
