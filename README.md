@@ -13,6 +13,7 @@ Introduction to RDDs, different features of RDDs, methods of creating RDDs and R
 * Actions: `collect()`, `take()`, `first()`, `count()`
 * Paired RDD Transformations: `reduceByKey()`, `groupByKey()`, `sortByKey()`, `join()`, `countByKey()`, `collectAsMap()`
 * Advanced RDD Actions: `reduce()`, `saveAsTextFile()`
+* `Project`: write code that calculates the most common words
 ### 3. PySpark SQL & DataFrames
 Introduction to Spark SQL, DataFrame abstraction, creating DataFrames, DataFrame operations and visualizing Big Data through DataFrames
 ### 4. Machine Learning with PySpark MLlib [Notebook](https://github.com/cc59chong/Big-Data-Fundamentals-with-PySpark/blob/main/Machine%20Learning%20with%20PySpark%20MLlib.ipynb)
