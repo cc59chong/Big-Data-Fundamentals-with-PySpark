@@ -16,5 +16,7 @@ Introduction to RDDs, different features of RDDs, methods of creating RDDs and R
 * `Project`: write code that calculates the most common words
 ### 3. PySpark SQL & DataFrames
 Introduction to Spark SQL, DataFrame abstraction, creating DataFrames, DataFrame operations and visualizing Big Data through DataFrames
+* DataFrame Transformations: `select()`, `filter()`, `groupby()`, `orderby()`, `dropDuplicates()` and `withColumnRenamed()`
+* DataFrame Actions: `head()`, `show()`, `count()` and `describe()`
 ### 4. Machine Learning with PySpark MLlib [Notebook](https://github.com/cc59chong/Big-Data-Fundamentals-with-PySpark/blob/main/Machine%20Learning%20with%20PySpark%20MLlib.ipynb)
 Introduction to Spark MLlib, the three C's of Machine Learning (Collaborative filtering, Classification and Clustering) 
