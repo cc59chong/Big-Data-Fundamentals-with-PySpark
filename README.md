@@ -7,7 +7,7 @@ Fundamentals of BigData and introduction to Spark as distributed computing frame
 * PySpark: Apache Spark's Python API to execute Spark jobs
 * PySpark shell: For developing the interactive applications in python
 * Spark modes: Local and clister mode
-### 2. Programming in PySpark RDD’s
+### 2. Programming in PySpark RDD’s [Notebook](https://github.com/cc59chong/Big-Data-Fundamentals-with-PySpark/blob/main/Programming%20in%20PySpark%20RDD%E2%80%99s.ipynb)
 Introduction to RDDs, different features of RDDs, methods of creating RDDs and RDD operations (Transformation and Actions)
 * Transsformations: ```map()```, `flatMap()`, `filter()`,` union()`
 * Actions: `collect()`, `take()`, `first()`, `count()`
