@@ -19,6 +19,6 @@ Introduction to Spark SQL, DataFrame abstraction, creating DataFrames, DataFrame
 * DataFrame Transformations: `select()`, `filter()`, `groupby()`, `orderby()`, `dropDuplicates()` and `withColumnRenamed()`
 * DataFrame Actions: `head()`, `show()`, `count()`, `clomuns` and `describe()`
 * Data Visualization: `hist()`, `displot()`, `pandas_histogram()`, `toPandas()`, `HandySpark`
-* `Project`: exploratory data analysis (EDA) on the "FIFA 2018 World Cup Player" 
+* **Project**: Exploratory data analysis (EDA) on the "FIFA 2018 World Cup Player" 
 ### 4. Machine Learning with PySpark MLlib [Notebook](https://github.com/cc59chong/Big-Data-Fundamentals-with-PySpark/blob/main/Machine%20Learning%20with%20PySpark%20MLlib.ipynb)
 Introduction to Spark MLlib, the three C's of Machine Learning (Collaborative filtering, Classification and Clustering) 
